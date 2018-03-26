@@ -1,10 +1,3 @@
-"""
-import random
-
-lista = DataFrame({'A': range(0,10), 'B': range("A"-"B")})
-x = raw_input("Podaj liczbe: ")
-"""
-
 def litery(x):
     slownik = ["zero","jeden","dwa","trzy","cztery",
                "piec","szesc","siedem","osiem","dziewiec"]
